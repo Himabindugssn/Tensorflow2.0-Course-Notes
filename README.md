@@ -2,9 +2,9 @@
 Notes of [TensorFlow 2.0 Complete Course](https://www.youtube.com/watch?v=tPYj3fFJGjk) provided by freeCodeCamp.org
 
 
-- 📕 Module 2: Introduction to TensorFlow 
-- 📗 Module 3: Core Learning Algorithms 
-- 📘 Module 4: Neural Networks with TensorFlow 
-- 📙 Module 5: Deep Computer Vision
-- 📔 Module 6: Natural Language Processing with RNNs 
-- 📒 Module 7: Reinforcement Learning 
+- [x] 📕 Module 2: Introduction to TensorFlow 
+- [x] 📗 Module 3: Core Learning Algorithms 
+- [ ] 📘 Module 4: Neural Networks with TensorFlow 
+- [ ] 📙 Module 5: Deep Computer Vision
+- [ ] 📔 Module 6: Natural Language Processing with RNNs 
+- [ ] 📒 Module 7: Reinforcement Learning 
